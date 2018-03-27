@@ -1,0 +1,7 @@
+{
+  "name": "npm-ci-bin-issue-module-first",
+  "version": "1.0.2",
+  "bin": {
+    "module-first-script": "./module-first-script"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "npm-ci-bin-issue-module-second",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "npm-ci-bin-issue-module-first": "*"
+  },
+  "scripts": {
+    "postinstall": "module-first-script"
+  }
+}

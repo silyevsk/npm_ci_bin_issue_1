@@ -1,0 +1,7 @@
+{
+  "name": "npm-ci-bin-issue-app",
+  "dependencies": {
+    "npm-ci-bin-issue-module-second": "*",
+    "npm-ci-bin-issue-module-first": "*"
+  }
+}
